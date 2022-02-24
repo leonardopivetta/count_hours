@@ -33,3 +33,12 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# typescript
+*.tsbuildinfo
+
+# debug logs
+*-debug.log
+
+#vscode
+.vscode/
