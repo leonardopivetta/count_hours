@@ -36,3 +36,6 @@ yarn-error.log*
 
 # debug logs
 *-debug.log
+
+#vscode
+.vscode/
